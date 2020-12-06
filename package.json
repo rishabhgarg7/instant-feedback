@@ -10,11 +10,13 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "autoprefixer": "^10.0.4",
+    "firebase": "^8.1.2",
     "next": "10.0.3",
     "postcss": "^8.1.14",
     "postcss-import": "^13.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
+    "swr": "^0.3.9",
     "tailwindcss": "^2.0.1"
   }
 }
