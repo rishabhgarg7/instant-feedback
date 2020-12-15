@@ -10,7 +10,10 @@ export default function Layout({children}) {
                 <title>Instant Feedback</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
+            <Header />
             {children}
+            <Footer />
+
         </div>
     )
 }
